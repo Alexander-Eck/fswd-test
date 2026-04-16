@@ -1,3 +1,9 @@
 # fswd-test
 
-This is our test repo to introduce git and GitHub.
+
+## Features to implement:
+
++ Create To-Do item
++ Edit To-Do item
++ User login / logout
+
